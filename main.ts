@@ -6,10 +6,10 @@
  */
 
 // Declare variables
-var num1: number = 56.9;
-var num2: number = 89.7;
-var num3: number = 90.2;
-var average: number = (num1 + num2 + num3) / 3.0;
+let number1: number = 56.9;
+let number2: number = 89.7;
+let number3: number = 90.2;
+let average: number = (number1 + number2 + number3) / 3.0;
 
 // Print the output
-console.log("The average of " + String(num1) + ", " + String(num2) + " and " + String(num3) + " is " + String(average) + ".");
+console.log("The average of " + String(number1) + ", " + String(number2) + " and " + String(number3) + " is " + String(average) + ".");
